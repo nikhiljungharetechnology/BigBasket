@@ -1,8 +1,7 @@
 class product
       {
-         public static void main(string args[])
+         public static void main()
              {  
-             system.out.println("product page");
-              system.out.println("welcome for next perches");
+               print("hello");
              }
       }
